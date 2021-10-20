@@ -1,0 +1,3 @@
+/cotent/darknet/data/carrot/000010.jpg
+/cotent/darknet/data/carrot/000023.jpg
+/cotent/darknet/data/carrot/000044.jpg
