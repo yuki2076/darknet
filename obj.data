@@ -1,5 +1,0 @@
-classes= 1
-train  = cfg/carrot-train.txt
-valid  = cfg/carrot-test.txt
-names = data/vegetable.names
-backup = backup
